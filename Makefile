@@ -10,7 +10,6 @@ all: $(FILENAME)-$(COMMIT_DATE).pdf
 $(FILENAME)-$(COMMIT_DATE).tex: $(wildcard ??-*.md)
 	COMMIT_DATE=$(COMMIT_DATE) envsubst < 00-headers-toc.mdt > 00-headers-toc.md
 	pandoc -s $? -t latex -o $(FILENAME)-$(COMMIT_DATE).tex
-	pandoc -s $? -t odt -o $(FILENAME)-$(COMMIT_DATE).odt
 
 $(FILENAME)-$(COMMIT_DATE).pdf: $(FILENAME)-$(COMMIT_DATE).tex $(FILENAME)-$(COMMIT_DATE).xmpdata
 	SOURCE_DATE_EPOCH=$(COMMIT_EPOCH) latexmk -pdf -lualatex -use-make $<
