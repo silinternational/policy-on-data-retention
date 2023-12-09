@@ -1,6 +1,6 @@
 # Introduction
 
-[TechTarget (https://www.techtarget.com/searchdatabackup/definition/data-retention-policy)](https://www.techtarget.com/searchdatabackup/definition/data-retention-policy):
+_The contents of this introduction are copied and edited from [TechTarget (https://www.techtarget.com/searchdatabackup/definition/data-retention-policy)](https://www.techtarget.com/searchdatabackup/definition/data-retention-policy):_
 
 ## What is a data retention policy?
 
@@ -28,12 +28,6 @@ When it comes to creating a data retention policy, every organization's needs ar
 **Identifying business requirements.** Creating an effective data retention policy involves more than just complying with applicable regulations. The retention policy must also take the organization's business requirements into account. It could be that there are operational requirements that mandate retaining data for longer than what's legally required.
 
 **Considering data types when crafting a data retention policy.** In any organization some data is more valuable than other data. An organization should avoid creating a blanket data retention policy that applies to all types of data. Instead, the policy should specifically define the type of data that must be retained and establish retention requirements for each type.
-
-**Adopting a good data archiving system.** If regulatory requirements require certain types of data to be retained for longer than the data is needed by the business, then consider adopting a data archiving system. A data archival system can help reduce the cost of storing archival data, while automating data lifecycle management and giving you the tools to locate data in the archives.
-
-**Having a plan for legal hold.** If the organization is involved in litigation then it will likely need to pause the data lifecycle management process so the data that was subpoenaed won't be automatically deleted once it reaches the end of its retention period.
-
-**Creating two versions of your data retention policy.** If an organization is subject to regulatory compliance, it will likely have to document its data retention requirements to satisfy regulatory mandates. This is a formally written document that can be filled with legal jargon. As a best practice, consider drafting a simpler version of the document that can be used internally as a way of helping stakeholders in the organization better understand retention requirements.
 
 ## How do you create a data retention policy?
 
