@@ -1,5 +1,5 @@
 # policy-on-data-retention
-Data Retention Policy [DRAFT] Github Repository
+Data Retention Policy [DRAFT] Github [Repository](https://github.com/silinternational/policy-on-data-retention)
 
 ## Purpose
 
@@ -11,7 +11,10 @@ The document sections are in simple text file using MarkDown for simple formatti
 
 ## Overview
 
-[[00-headers-toc]]
-[[01-intro]]
-[[02-legal-requirements]]
-[[03-business-requirements]]
+[[00-headers-toc]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/00-headers-toc.md)
+
+[[01-intro]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/01-intro.md)
+
+[[02-legal-requirements]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/02-legal-requirements.md)
+
+[[03-business-requirements]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/03-business-requirements)
