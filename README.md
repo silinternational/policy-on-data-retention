@@ -7,7 +7,7 @@ Data Retention Policy [DRAFT] Github [Repository](https://github.com/silinternat
 2. An experiment to test out feasibility of [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 
 ## How to contribute
-The document sections are in simple text file using MarkDown for simple formatting, with a two-digit leading filename. Click onto a file to show the document section.
+The document sections are plain text files using [MarkDown](https://www.markdownguide.org/) for simple formatting, with a two-digit leading filename. Click onto a file to show the document section.
 
 ## Overview
 
