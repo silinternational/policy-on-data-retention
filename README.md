@@ -17,4 +17,4 @@ The document sections are in simple text file using MarkDown for simple formatti
 
 [[02-legal-requirements]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/02-legal-requirements.md)
 
-[[03-business-requirements]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/03-business-requirements)
+[[03-business-requirements]] (https://github.com/silinternational/policy-on-data-retention/blob/develop/03-business-requirements.md)
